@@ -1,9 +1,0 @@
-import csv
-isbnList = []
-with open('books.csv','r') as f:
-    fin = csv.reader(f)
-    for row in fin:
-        if len (row) != 0:
-            isbnList = isbnList + [row]
-f.close()
-print(isbnList)
