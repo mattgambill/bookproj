@@ -94,9 +94,9 @@ Introduction to Robotics,John J. Craig,9780133489798,448,ECE
 "VHDL:Modular Design and Synthesis of Cores and Systems, Third Edition",Zainalabedin Navabi,9780071475457,531,ECE
 Computer Vision,David Forsyth,9780136085928,761,ECE
 Computer organization and embedded systems,V. Carl Hamacher,9780073380650,,ECE
-Discrete-time signal processing,Alan V. Oppenheim,9780131988422,,ECE
+Discrete-time Signal Processing,Alan V. Oppenheim,9780131988422,1108,ECE
 Power Systems Analysis,Arthur R. Bergen,9780136919902,619,ECE
-Lasers,A. E. Siegman,9780935702118,,ECE
+Lasers,A. E. Siegman,9780935702118,1283,ECE
 Computational Complexity,Sanjeev Arora,9780521424264,579,ECE
 Digital Control Engineering,M. Sami Fadali,9780123943910,582,ECE
 Foundations of Analog and Digital Electronic Circuits,Anant Agarwal,9781558607354,984,ECE
@@ -105,7 +105,7 @@ Principles of Modern Radar,Mark A. Richards,9781891121524,924,ECE
 Analog Circuit Design,Johan H. Huijsing,9780132543354,413,ECE
 Basic Economics,Thomas Sowell,9780465060733,704,Economics
 Introduction to Modern Economic Growth,Daron Acemoglu,9780691132921,990,Economics
-Modern Principles: Macroeconomics,Tyler Cowen,9781429278409,,Economics
+Modern Principles of Macroeconomics,Tyler Cowen,9781429278409,474,Economics
 Macroeconomics,N. Gregory Mankiw,9781429218870,598,Economics
 Advanced Macroeconomics,David Romer,9780073511375,736,Economics
 Microeconomic Theory,Andreu Mas-Colell,9780195073409,981,Economics
@@ -114,13 +114,13 @@ The Oil Curse,Michael L. Ross,9780691159638,289,Economics
 Capital Vol 1,Karl Marx,9780140445688,1152,Economics
 Capital,Karl Marx,9780140445695,624,Economics
 Capital,Karl Marx,9780140445701,1088,Economics
-The Mystery Of Capital: Why Capitalism Triumphs In The West And Fails Everywhere Else,Hernando de Soto,9780465016150,,Economics
+The Mystery of Capital,Hernando de Soto,9780465016150,275,Economics
 The Second Sex,Simone de Beauvoir,9780307277787,800,FemLit
-The history of sexuality,Michel Foucault,9780679724698,,FemLit
+The History Of Sexuality,Michel Foucault,9780679724698,,FemLit
 "The History of Sexuality, Vol. 3",Michel Foucault,9780394741550,279,FemLit
-The history of sexuality,Michel Foucault,9780394751221,,FemLit
-The feminine mystique,Betty Friedan,9780393346787,,FemLit
-Critical Race Theory: An Introduction,Richard Delgado,9781479802760,,FemLit
+The history of sexuality,Michel Foucault,9780394751221,304,FemLit
+The Feminine Mystique (50th Anniversary Edition),Betty Friedan,9780393346787,592,FemLit
+Critical Race Theory (Third Edition),Richard Delgado,9781479802760,224,FemLit
 Intersectionality,Patricia Hill Collins,9780745684499,,FemLit
 Critical Race Theory,Kimberlé Crenshaw,9781565842717,494,FemLit
 "Black feminist thought: knowledge, consciousness, and the politics of empowerment",Patrici Collins,9780415964722,,FemLit
@@ -135,122 +135,122 @@ Feminist Methodologies for Critical Researchers,Joey Sprague,9780759109032,237,F
 The Routledge Companion To Feminist Philosophy,Ann Garry,9781138795921,,FemPhilos
 Feminist Ethnography,D. Davis,9780759122451,248,FemPhilos
 Feminist methodologies for critical researchers: bridging differences,Joey Sprague,9781442218727,,FemPhilos
-The Science Question In Feminism,Sandra G. Harding,9780801493638,,FemPhilos
+The science question in feminism,Sandra G. Harding,9780801493638,,FemPhilos
 Whose Science? Whose Knowledge?,Sandra G. Harding,9780801497469,319,FemPhilos
 Feminism And Science,Evelyn Fox Keller,9780198751465,289,FemPhilos
-"Discovering Reality: Feminist Perspectives On Epistemology, Metaphysics, Methodology, And Philosophy Of Science",Sandra Harding,9781402013195,,FemPhilos
+"Discovering reality: feminist perspectives on epistemology, metaphysics, methodology, and philosophy of science",Sandra G. Harding,9781402013195,,FemPhilos
 Qualitative Research Practice: A Guide For Social Science Students And Researchers,Jane Ritchie,9781446209127,,FemPhilos
-Feminist research practice: a primer,Sharlene Nagy Hesse-Biber,9781412994972,,FemPhilos
-Feminism and Methodology,Sandra G. Harding,9780253204448,193,FemPhilos
-The Feminist Standpoint Theory Reader: Intellectual And Political Controversies,Sandra G. Harding,9780415945011,,FemPhilos
+Feminist Research Practice,Sharlene Nagy Hesse-Biber,9781412994972,433,FemPhilos
+Feminism And Methodology: Social Science Issues,Sandra G. Harding,9780253204448,,FemPhilos
+The Feminist Standpoint Theory Reader,Sandra G. Harding,9780415945011,379,FemPhilos
 The Postcolonial Science and Technology Studies Reader,Sandra Harding,9780822349570,476,FemPhilos
 Teaching Critical Thinking,Bell Hooks,9780415968201,191,FemPhilos
 The Extended Phenotype,Richard Dawkins,9780198788911,496,FH
 The Selfish Gene,Charles Simonyi Chair of Public Understanding of Science Richard Dawkins,9780198788607,544,FH
-Darwin's Dangerous Idea,Daniel C. Dennett,9780684824710,586,FH
+Darwin's Dangerous Idea: Evolution And The Meanings Of Life,Daniel C. Dennett,9780684824710,,FH
 Consciousness explained,D. C. Dennett,9780316180665,,FH
-Free will,Sam Harris,9781451683400,,FH
+Free Will,Sam Harris,9781451683400,83,FH
 The Moral Landscape: How Science Can Determine Human Values,Sam Harris,9781439171226,,FH
-Lying,Sam Harris,9781940051000,,FH
-Letter To A Christian Nation,Sam Harris,9780307278777,,FH
+Lying,Sam Harris,9781940051000,105,FH
+Letter to a Christian Nation,Sam Harris,9780307278777,120,FH
 "The End Of Faith: Religion, Terror, And The Future Of Reason",Sam Harris,9780393327656,,FH
 Waking up: a guide to spirituality without religion,Sam Harris,9781451636024,,FH
-Breaking the Spell,Daniel C. Dennett,9780143038337,448,FH
-From bacteria to Bach and back: the evolution of minds,D. C. Dennett,9780393242072,,FH
+Breaking the spell: religion as a natural phenomenon,Daniel C. Dennett,9780143038337,,FH
+From Bacteria to Bach and Back,Daniel Clement Dennett,9780393242072,496,FH
 Higher Superstition,Paul R. Gross,9780801857072,348,GR
 Fashionable Nonsense,Alan Sokal,9780312204075,300,GR
 Professing Feminism,Daphne Patai,9780739104552,426,GR
-The Origin of Species,Charles Darwin,9781400041275,972,GR
-The victims' revolution: the rise of identity studies and the closing of the liberal mind,Bruce Bawer,9780061807374,,GR
-Force and fanaticism: Wahhabism in Saudi Arabia and beyond,Simon Ross Valentine,9781849044646,,GR
+The Origin Of Species And The Voyage Of The Beagle,Charles Darwin,9781400041275,,GR
+The Victims' Revolution,Bruce Bawer,9780061807374,400,GR
+Force And Fanaticism: Wahhabism In Saudi Arabia And Beyond,Simon Ross Valentine,9781849044646,,GR
 The Big Picture,Sean Carroll,9781101984253,480,GR
-Astrophysics for people in a hurry,Neil deGrasse Tyson,9780393609394,,GR
-"Decoding the universe: how the new science of information is explaining everything in the cosmos, from our brains to black holes",Charles Seife,9780143038399,,GR
+Astrophysics for People in a Hurry,Neil deGrasse Tyson,9780393609394,144,GR
+Decoding the Universe,Charles Seife,9780143038399,304,GR
 The Science of Language,Noam Chomsky,9781107016378,321,GR
 "Little science, big science-- and beyond",Derek J. de Solla Price,9780231049573,,GR
 "The Rise of Statistical Thinking, 1820-1900",Theodore M. Porter,9780691024097,333,GR
 Introductuon to project management,Kathy Schwalbe,9780982800331,,GR
-The Greatest Story Ever Told--So Far: Why Are We Here?,Lawrence M. Krauss,9781476777610,,GR
+The Greatest Story Ever Told--So Far,Lawrence M. Krauss,9781476777610,336,GR
 A Universe from Nothing,Lawrence M. Krauss,9781451624465,240,GR
-A treatise on the fundamental principles of violin playing,Leopold Mozart,9780193185135,,GR
-"Tesla, Man Out Of Time",Margaret Cheney,9780743215367,,GR
-The Wizard of Menlo Park,Randall E. Stross,9781400047635,376,GR
-Vivaldi,H. C. Robbins Landon,9780226468426,208,GR
-Tchaikovsky: The Man And His Music,David Brown,9781605980171,,GR
-The Cambridge History Of The Second World War,John Ferris,9781107038929,,History
+A Treatise on the Fundamental Principles of Violin Playing,Leopold Mozart,9780193185135,235,GR
+Tesla,Margaret Cheney,9780743215367,400,GR
+The Wizard Of Menlo Park: How Thomas Alva Edison Invented The Modern World,Randall E. Stross,9781400047635,,GR
+Vivaldi: Voice Of The Baroque,H. C. Robbins Landon,9780226468426,,GR
+Tchaikovsky,David Brown,9781605980171,460,GR
+The Cambridge History of the Second World War,John Ferris,9781107038929,675,History
 The Cambridge History of the Second World War,Richard Bosworth,9781107034075,650,History
-The Cambridge history of the Second World War,Evan Mawdsley,9781107039957,,History
+The Cambridge History of the Second World War,Michael Geyer,9781107039957,864,History
 The Cambridge History of the Cold War,Melvyn P. Leffler,9781107602311,712,History
 The Cambridge History of the Cold War,Melvyn P. Leffler,9781107602304,680,History
-The Cambridge History Of The Cold War,Melvyn P. Leffler,9781107602298,,History
-"The Cambridge History of the First World War: Volume 3, Civil Society",Jay Winter,9781316601433,779,History
+The Cambridge History of the Cold War,Melvyn P. Leffler,9781107602298,662,History
+The Cambridge history of the First World War,J. M. Winter,9781316601433,,History
 "The Cambridge History of the First World War: Volume 2, The State",Jay Winter,9781316504994,802,History
 The Cambridge history of the First World War,J. M. Winter,9781316504437,,History
-The art of not being governed: an anarchist history of upland Southeast Asia,James C. Scott,9780300169171,,History
-The Invisible Bridge,Rick Perlstein,9781476782423,880,History
-Nixonland: the rise of a president and the fracturing of America,Rick Perlstein,9780743243032,,History
-The Rise and Fall of the Third Reich,William L. Shirer,9781451651683,1249,History
+The Art of Not Being Governed,James C. Scott,9780300169171,442,History
+The invisible bridge: the fall of Nixon and the rise of Reagan,Rick Perlstein,9781476782423,,History
+Nixonland: The Rise Of A President And The Fracturing Of America,Rick Perlstein,9780743243032,,History
+The Rise And Fall Of The Third Reich; A History Of Nazi Germany,William L. Shirer,9781451651683,,History
 Stalin,E. S. Radinskij,9780385479547,624,History
 The History of the Decline and Fall of the Roman Empire,Edward Gibbon,9780140437645,795,History
-The Reformation,Diarmaid MacCulloch,9780143035381,831,History
+The Reformation,Diarmaid MacCulloch,9780143035381,,History
 A people's history of the United States: 1492-2001,Howard Zinn,9780060838652,,History
 A Reader on Punishment,Antony Duff,9780198763536,351,Law
-A theory of justice,John Rawls,9780674000780,538,Law
+A Theory Of Justice,John Rawls,9780674000780,,Law
 The Routledge Companion to Philosophy of Law,Andrei Marmor,9780415878180,630,Law
 "Law, Liberty, and Morality",H. L. A. Hart,9780804701549,88,Law
 Philosophy of Law,Joel Feinberg,9781133942962,1039,Law
-The Philosophy of Law,Frederick F. Schauer,9780195155129,1002,Law
+The Philosophy Of Law: Classic And Contemporary Readings With Commentary,Frederick F. Schauer,9780195155129,,Law
 Criminal Justice,Frank J. Schmalleger,9780133591316,528,Law
-The Oxford Handbook of Jurisprudence and Philosophy of Law,Jules Coleman,9780199270972,1072,Law
+The Oxford handbook of jurisprudence and philosophy of law,Jules L. Coleman,9780199270972,,Law
 Jurisprudence,Brian Bix,9781611637212,364,Law
 "Wills, Trusts, and Estates","Thomas M. Featherston, Jr.",9780769896250,193,Law
-Wills And Trusts In A Nutshell,ROBERT. MENNELL,9781634604871,,Law
-"Wills, Trusts, And Estates: Examples And Explanations",Gerry W. Beyer,9781454850052,,Law
+Wills and trusts in a nutshell,Robert L. Mennell,9781634604871,,Law
+"Wills, trusts, and estates: examples and explanations",Gerry W. Beyer,9781454850052,,Law
 Federal Income Taxation Of Individuals In A Nutshell,John K. McNulty,9780314927002,,Law
 Tax procedure and tax fraud in a nutshell,Camilla E. Watson,9781634599320,,Law
-Federal Income Tax,Katherine Pratt,9781454833901,601,Law
+Federal Income Tax,Katherine Pratt,9781454833901,,Law
 Questions &amp;amp; answers,Patrick Emery Longan,9781422498606,,Law
 Professional Responsibility: Examples And Explanations,W. Bradley Wendel,9781454868439,,Law
-Public International Law In A Nutshell,Thomas Buergenthal,9780314279965,,Law
-International Law,Valerie Epps,9781454833949,444,Law
-Trademark And Unfair Competition Law In A Nutshell,Mark D. Janis,9780314163417,,Law
+Public International Law in a Nutshell,Thomas Buergenthal,9780314279965,473,Law
+International Law,Valerie Epps,9781454833949,,Law
+Trademark and Unfair Competition Law in a Nutshell,Mark D. Janis,9780314163417,399,Law
 Intellectual Property,Arthur Raphael Miller,9780314278340,473,Law
 Intellectual property: examples and explanations,Stephen M. McJohn,9781454850151,,Law
-Federal jurisdiction,Erwin Chemerinsky,9781454804024,,Law
-Federal Courts,Laura E. Little,9781454815556,,Law
-Questions and Answers,David P. Leonard,9780769864228,300,Law
+Federal Jurisdiction,Erwin Chemerinsky,9781454804024,1132,Law
+Federal Courts,Laura E. Little,9781454815556,524,Law
+Questions &Amp;Amp; Answers,David P. Leonard,9780769864228,,Law
 Federal Rules of [Evidence] in a nutshell,Michael H. Graham,9781628105490,,Law
 Evidence in a nutshell: State and Federal rules,Paul F. Rothstein,9780314278333,,Law
 Evidence,Arthur Best,9781454850045,,Law
-Employment Discrimination,Susan Grover,9781454816102,608,Law
-Employment law in a nutshell,Robert N. Covington,9780314195401,,Law
+Employment Discrimination,Susan Grover,9781454816102,,Law
+Employment Law in a Nutshell,Robert N. Covington,9780314195401,567,Law
 Questions & Answers,Douglas M. Branson,9781422490853,356,Law
 Corporations,Alan R. Palmiter,9781454850168,,Law
-Siegel's Corporations and Other Business Entities,Siegel,9781454809272,288,Law
+Siegel's Corporations And Other Business Entities: Essay And Multiple-Choice Questions And Answers,Siegel,9781454809272,,Law
 The Law of Corporations in a Nutshell,Robert W. Hamilton,9780314904577,442,Law
 Antitrust,Daniel A. Crane,9781454837992,,Law
-Antitrust Law and Economics in a Nutshell,Ernest Gellhorn,9780314257239,617,Law
+Antitrust Law And Economics In A Nutshell,Ernest Gellhorn,9780314257239,,Law
 Antitrust,Christopher L. Sagers,9781454833956,,Law
 Administrative Law and Process in a Nutshell,Ronald Levin,9781628103557,521,Law
-Administrative law,William F. Funk,9781454850106,,Law
+Administrative Law,William F. Funk,9781454850106,456,Law
 Questions and Answers,John Copeland Nagle,9780769865102,148,Law
 Questions &amp;amp; answers,Emily Marcus Levine,9780769857718,,Law
 Criminal law in a nutshell,Arnold H. Loewy,9780314194961,,Law
-Criminal Law,Richard G. Singer,9781454815532,608,Law
+Criminal law,Richard G. Singer,9781454815532,,Law
 Concepts and Case Analysis in the Law of Contracts,Marvin A. Chirelstein,9781609303303,258,Law
-Questions &amp;amp; answers,Scott J. Burnham,9781630431495,,Law
-Contracts In A Nutshell,Claude D. Rohwer,9781634599146,,Law
+Questions and Answers,Scott J. Burnham,9781630431495,213,Law
+Contracts in a nutshell,Claude D. Rohwer,9781634599146,,Law
 Contracts,Brian A. Blum,9781454815471,,Law
-Constitutional law--principles and policies,Erwin Chemerinsky,9781454849476,,Law
-Constitutional law in a nutshell,Jerome A. Barron,9781634596237,,Law
-Civil Procedure: Examples And Explanations,Joseph W. Glannon,9781454815488,,Law
+Constitutional Law,Erwin Chemerinsky,9781454849476,1488,Law
+Constitutional Law In A Nutshell,Jerome Barron,9781634596237,,Law
+Civil Procedure,Joseph W. Glannon,9781454815488,730,Law
 Civil Procedure in a Nutshell,Mary Kay Kane,9780314285881,334,Law
 Questions &amp;amp; answers,Anita Bernstein,9780769881904,,Law
 Questions &amp;amp; answers,William V. Dorsaneo,9781632828583,,Law
 "Civil procedure: cases, problems and exercises",John T. Cross,9781634600170,,Law
-Constitutional Law: National Power And Federalism,Christopher N. May,9781454864226,,Law
+Constitutional Law,Christopher N. May,9781454864226,784,Law
 Constitutional law--individual rights,Allan Ides,9781454863922,,Law
-Understanding Criminal Law,Joshua Dressler,9781632838643,603,Law
+Understanding Criminal Law,Joshua Dressler,9781632838643,,Law
 Property,D. Barlow Burke,9781454850069,,Law
 Real property in a nutshell,Roger Bernhardt,9781634599207,,Law
 Questions and Answers,John Copeland Nagle,9780769865102,148,Law
@@ -258,85 +258,189 @@ Understanding Property Law,John G. Sprankling,9781422498736,706,Law
 The Law of Torts,Joseph W. Glannon,9781454850113,710,Law
 Torts in a nutshell,Edward J. Kionka,9781628105513,,Law
 Questions &amp;amp; answers,Anita Bernstein,9780769881904,,Law
-The catcher in the rye,J. D. Salinger,9780316769488,,Literature
+The Catcher in the Rye,J.D. Salinger,9780316769488,240,Literature
 One Flew Over the Cuckoo's Nest,Ken Kesey,9780451163967,272,Literature
 The Stranger,Albert Camus,9780679720201,123,Literature
 "The Myth of Sisyphus, and Other Essays",Albert Camus,9780679733737,212,Literature
 Brave New World,Aldous Huxley,9780060850524,279,Literature
 Fahrenheit 451,Ray Bradbury,9781451673319,159,Literature
 The Road to Wigan Pier,George Orwell,9780156767507,232,Literature
-1984,George Orwell,9780451524935,268,Literature
+Nineteen Eighty-Four: A Novel,George Orwell,9780451524935,,Literature
 One Day in the Life of Ivan Denisovich,Aleksandr Isaevich Solzhenit︠s︡yn,9780451228147,181,Literature
 The Kingdom of God Is Within You,Leo Tolstoy,9781522744603,194,Literature
-Demons,Fyodor Dostoyevsky,9780679734512,733,Literature
+The possessed,Fyodor Mikhailovich Dostoyevsky,9780679734512,,Literature
 The Brothers Karamazov,Fyodor Dostoevsky,9780374528379,796,Literature
-Pride and Prejudice,Jane Austen,9780141439518,435,Literature
-The Count of Monte Cristo,Alexandre Dumas pere,9780140449266,1276,Literature
+Jane Austen's Pride And Prejudice,Jane Austen,9780141439518,,Literature
+The Count of Monte Cristo,Alexandre Dumas,9780140449266,,Literature
 Inferno,Dante Alighieri,9780140448955,449,Literature
 Purgatorio,Dante Alighieri,9780140448962,512,Literature
 Paradiso,Dante Alighieri,9780140448979,480,Literature
-Don Quixote,Miguel de Cervantes Saavedra,9780142437230,1023,Literature
-The prince and the pauper,Mark Twain,9781580496728,,Literature
+Don Quixote,Miguel de Cervantes Saavedra,9780142437230,,Literature
+"Prince and the Pauper, The: Literary Touchstone Classic",Mark Twain,9781580496728,231,Literature
 The Idiot,Fyodor Dostoyevsky,9780375702242,633,Literature
 The Iliad,Homer,9780140275360,683,Literature
 Hatchet,Homer,9780140268867,,Literature
 Gulliver's Travels,Jonathan Swift,9780141439495,305,Literature
-Gone With The Wind,Margaret Mitchell,9781451635621,,Literature
-Moby Dick,Herman Melville,9780199535729,592,Literature
-Adventures of Huckleberry Finn,Mark Twain,9781463520717,276,Literature
-Where The Red Fern Grows: The Story Of Two Dogs And A Boy,Wilson Rawls,9780812416961,,Literature
+"Gone with the Wind, 75th Anniversary Edition",Margaret Mitchell,9781451635621,960,Literature
+Moby-Dick,Herman Melville,9780199535729,,Literature
+Adventures Of Huckleberry Finn,Mark Twain,9781463520717,,Literature
+Where the red fern grows: the story of two dogs and a boy,Wilson Rawls,9780812416961,,Literature
 Old Yeller,Fred Gipson,9780060935474,,Literature
-"Paradise lost: and, Paradise regained",John Milton,9781461120407,,Literature
-The tommyknockers,Stephen King,9780451156600,,Literature
-Animal Farm,George Orwell,9780451526342,,Literature
-The Three Theban Plays ; Antigone ; Oedipus The King ; Oedipus,Sophocles,9780140444254,,Literature
-Introduction to Linear Algebra,Lee W. Johnson,9780201658590,555,Math
-Mathematical Methods For Physicists,George Brown Arfken,9780123846549,,Math
-Playing for real: a text on game theory,K. G. Binmore,9780195300574,,Math
-An introduction to information theory,Fazlollah M. Reza,9780486682105,,Math
-An Introduction to Information Theory,John Robinson Pierce,9780486240619,305,Math
-Elements of Information Theory,Thomas M. Cover,9780471241959,776,Math
+Paradise Lost,John Milton,9781461120407,140,Literature
+The Tommyknockers,Stephen King,9780451156600,,Literature
+Animal Farm,George Orwell,9780451526342,140,Literature
+The Three Theban Plays,Sophocles,9780140444254,430,Literature
+Introduction To Linear Algebra,Lee W. Johnson,9780201658590,,Math
+Mathematical Methods for Physicists,George Brown Arfken,9780123846549,1205,Math
+Playing for Real,Ken Binmore,9780195300574,639,Math
+An Introduction to Information Theory,Fazlollah M. Reza,9780486682105,496,Math
+"An Introduction To Information Theory: Symbols, Signals &Amp;Amp; Noise",John Robinson Pierce,9780486240619,,Math
+Elements of information theory,T. M. Cover,9780471241959,,Math
 The Mathematical Theory of Communication,Claude E Shannon,9780252725463,144,Math
 Numerical Methods for Engineers and Scientists,Amos Gilat,9781118554937,576,Math
-Bayesian data analysis,Andrew Gelman,9781439840955,,Math
+Bayesian Data Analysis,Andrew Gelman,9781439840955,,Math
 Stochastic tools in turbulence,John L. Lumley,9780486462707,,Math
 The Mathematical Theory of Communication,Claude Elwood Shannon,9780252725487,125,Math
-Mathematical foundations of information theory,A. I. Khinchin,9780486604343,,Math
-Chaos in dynamical systems,Edward Ott,9780521010849,,Math
+Mathematical Foundations of Information Theory,Aleksandr I?Akovlevich Khinchin,9780486604343,120,Math
+Chaos in Dynamical Systems,Edward Ott,9780521010849,478,Math
 Nonlinear Dynamics and Chaos,Steven H. Strogatz,9780813349107,528,Math
 Numerical analysis,Richard L. Burden,9781305253667,,Math
-Introduction to real analysis,Robert Gardner Bartle,9780471433316,,Math
-A First Course In Probability,Sheldon M. Ross,9780321794772,,Math
+Introduction to Real Analysis,Robert G. Bartle,9780471433316,416,Math
+A First Course in Probability,Sheldon M. Ross,9780321794772,467,Math
 Euclidean and Non-Euclidean Geometries,Marvin J. Greenberg,9780716799481,512,Math
-Riemannian manifolds: an introduction to curvature,"Lee, John M.",9780387983226,,Math
-Introduction To Smooth Manifolds,John M. Lee,9780387954486,,Math
-Algebraic topology,Allen Hatcher,9780521795401,,Math
-Visual complex analysis,Tristan Needham,9780198534464,,Math
+Riemannian Manifolds,John M. Lee,9780387983226,226,Math
+Introduction to Smooth Manifolds,John M. Lee,9780387954486,628,Math
+Algebraic Topology,Allen Hatcher,9780521795401,,Math
+Visual Complex Analysis,Tristan Needham,9780198534464,592,Math
 Introductory Complex Analysis,Richard A. Silverman,9780486646862,372,Math
 Introduction to Topology,Bert Mendelson,9780486663524,206,Math
-Abstract Algebra,David S. Dummit,9780471433347,,Math
+Abstract Algebra,David S. Dummit,9780471433347,932,Math
 Elementary Differential Equations,William E. Boyce,9780470458327,644,Math
-Probability,Jim Pitman,9780387979748,,Math
-A first course in abstract algebra,"Fraleigh, John B.",9780201763904,,Math
+Probability,Jim Pitman,9780387979748,559,Math
+A first course in abstract algebra,John B. Fraleigh,9780201763904,520,Math
 Topology,James R. Munkres,9780131816299,537,Math
-Advanced modern algebra,Joseph J. Rotman,9780821847411,,Math
+Advanced Modern Algebra,Joseph J. Rotman,9780821847411,1008,Math
 Theoretical numerical analysis: a functional analysis framework,Kendall E. Atkinson,9781441904577,,Math
-Numerical mathematics and computing,"Cheney, E. W.",9781133103714,,Math
+Numerical Mathematics and Computing,E. Cheney,9781133103714,704,Math
 Complex variables and applications,Ruel V. Churchill,9780073383170,,Math
-Partial differential equations: an introduction,Walter A. Strauss,9780470054567,,Math
+Partial Differential Equations,Walter A. Strauss,9780470054567,464,Math
 Linear Algebra Done Right,Sheldon Axler,9780387982588,,Math
-Introduction to Linear Algebra,Gilbert Strang,9780980232776,600,Math
-Differential equations and linear algebra,Gilbert Strang,9780980232790,,Math
-Linear Algebra,Stephen H. Friedberg,9780130084514,601,Math
-Understanding Analysis,Stephen Abbott,9781493927111,312,Math
+Introduction To Linear Algebra,Gilbert Strang,9780980232776,,Math
+Differential Equations and Linear Algebra,Gilbert Strang,9780980232790,510,Math
+Linear Algebra,Stephen H. Friedberg,9780130084514,,Math
+Understanding Analysis,Stephen Abbott,9781493927111,,Math
 Compliant Mechanisms,Larry L. Howell,9780471384786,459,MechE
 Vibration of Continuous Systems,Singiresu S. Rao,9780471771715,720,MechE
-Mechanical Design of Machine Elements and Machines,Jack A. Collins,9780470413036,890,MechE
+Mechanical design of machine elements and machines: a failure prevention perspective,J. A. Collins,9780470413036,,MechE
 Theory and Design for Mechanical Measurements,Richard S. Figliola,9781118881279,624,MechE
 Control Systems Engineering,Norman S. Nise,9781118170519,944,MechE
-Engineering Mechanics,J. L. Meriam,9781118807330,528,MechE
-Engineering Mechanics,J. L. Meriam,9781118885840,736,MechE
-Engineering Mechanics,Russell C. Hibbeler,9780133915389,784,MechE
+Engineering Mechanics,J. L. Meriam,9781118807330,,MechE
+Engineering Mechanics,J. L. Meriam,9781118885840,,MechE
+Engineering mechanics,R. C. Hibbeler,9780133915389,,MechE
 Engineering Mechanics-Dynamics,J. L. Meriam,9781118393635,752,MechE
-Engineering mechanics,R. C. Hibbeler,9780133918922,,MechE
+Engineering Mechanics,Russell C. Hibbeler,9780133918922,704,MechE
 Mechanics of materials,R. C. Hibbeler,9780134319650,,MechE
+"Existentialism is a humanism = (L'Existentialisme est un humanisme) ; including, a commentary on The stranger (Explication de L'Étranger)",Jean-Paul Sartre,9780300115468,,Philosophy-PL
+Being and Nothingness,Jean-Paul Sartre,9780671867805,811,Philosophy-PL
+Being and time,Martin Heidegger,9780061575594,,Philosophy-PL
+Five Dialogues,Plato,9780872206335,,Philosophy-PL
+Discourse on Method and Meditations on First Philosophy (Fourth Edition),René Descartes,9780872204201,128,Philosophy-PL
+The Will to Power,Friedrich Wilhelm Nietzsche,9780394704371,576,Philosophy-PL
+The structure of scientific revolutions,Thomas S. Kuhn,9780226458120,,Philosophy-PL
+The Antichrist,Friedrich Wilhelm Nietzsche,9781936594269,,Philosophy-PL
+Beyond Good and Evil,Friedrich Wilhelm Nietzsche,9780679724650,256,Philosophy-PL
+The Gay Science,Friedrich Wilhelm Nietzsche,9780394719856,396,Philosophy-PL
+Thus Spoke Zarathustra: A Book For All And None,Friedrich Nietzsche,9780140441185,,Philosophy-PL
+The Freud Reader,Sigmund Freud,9780393314038,832,Philosophy-PL
+Ethics preceded by On the improvement of the understanding,Baruch Spinoza,9780140435719,,Philosophy-PL
+The First and Second Discourses,Jean-Jacques Rousseau,9780312694401,248,Philosophy-PL
+An Enquiry Concerning Human Understanding ; [with] A Letter from a Gentleman to His Friend in Edinburgh ; [and] An Abstract of a Treatise of Human Nature,David Hume,9780872202290,151,Philosophy-PL
+A Derrida Reader,Jacques Derrida,9780231066594,625,Philosophy-PL
+The Foucault Reader,Michel Foucault,9780394713403,390,Philosophy-PL
+The Continental Philosophy Reader,Richard Kearney,9780415095266,481,Philosophy-PL
+Tractatus Logico-Philosophicus,Ludwig Wittgenstein,9780486404455,125,Philosophy-PL
+Philosophical investigations,Ludwig Wittgenstein,9781405159289,,Philosophy-PL
+On Certainty,Ludwig Wittgenstein,9780061316869,,Philosophy-PL
+The Web of Belief,J. S. Ullian,9780075536093,147,Philosophy-PL
+Pursuit of truth,Willard Van Orman Quine,9780674739512,,Philosophy-PL
+Philosophy of Logic,Willard Van Orman Quine,9780674665637,109,Philosophy-PL
+From Stimulus To Science,W. V. QUINE,9780674326361,,Philosophy-PL
+Naming and Necessity,Saul A. Kripke,9780631128014,184,Philosophy-PL
+Wittgenstein On Rules And Private Language: An Elementary Exposition,Saul A. Kripke,9780674954014,,Philosophy-PL
+The Rationalists,René Descartes,9780385095402,471,Philosophy-PL
+The Empiricists,John Locke,9780385096225,517,Philosophy-PL
+Critique Of Pure Reason,Immanuel Kant,9780140447477,708,Philosophy-PL
+Phenomenology of spirit,Georg Wilhelm Friedrich Hegel,9780198245971,595,Philosophy-PL
+The Cambridge Companion to Heidegger's Being and Time,Mark A. Wrathall,9780521720564,448,Philosophy-SL
+The Cambridge Companion to Marx,Terrell Carver,9780521366946,357,Philosophy-SL
+The Cambridge Companion to Foucault,Gary Gutting,9780521600538,465,Philosophy-SL
+The Cambridge Companion to Sartre,Christina Howells,9780521388122,387,Philosophy-SL
+The Cambridge companion to existentialism,Steven Galt Crowell,9780521732789,,Philosophy-SL
+The Cambridge companion to Wittgenstein,Hans D. Sluga,9780521465915,,Philosophy-SL
+The Cambridge Companion to Nietzsche,Bernd Magnus,9780521367677,403,Philosophy-SL
+The Cambridge companion to Kant and modern philosophy,Paul Guyer,9780521529952,,Philosophy-SL
+The Cambridge Companion To Kant,Paul Guyer,9780521367684,,Philosophy-SL
+The Cambridge Companion to Hegel and Nineteenth-Century Philosophy,Frederick C. Beiser,9780521539388,448,Philosophy-SL
+The Oxford Handbook Of Philosophy Of Religion,William J. Wainwright,9780195331356,,Philosophy-Topics
+The Routledge companion to philosophy of religion,Chad V. Meister,9780415782951,,Philosophy-Topics
+The Routledge Companion To Philosophy Of Literature,Noel Carroll,9780415889728,,Philosophy-Topics
+The Routledge Companion to Hermeneutics,Jeff Malpas,9780415644587,753,Philosophy-Topics
+The Routledge Companion To Philosophy Of Language,Gillian Russell,9781138776180,,Philosophy-Topics
+The Cambridge Companion to Virtue Ethics,Daniel C. Russell,9780521171748,380,Philosophy-Topics
+The Cambridge Companion to Postmodernism,Steven Connor,9780521648400,237,Philosophy-Topics
+Philosophy of Language,William G. Lycan,9780415957526,221,Philosophy-Topics
+The Philosophy of Language,Aloysius Martinich,9780199795154,738,Philosophy-Topics
+Disagreement and Skepticism,Diego E. Machuca,9780415532839,304,Philosophy-Topics
+Disagreement,Bryan Frances,9780745672267,,Philosophy-Topics
+The epistemology of disagreement: new essays,David Phiroze Christensen,9780198748113,,Philosophy-Topics
+Critical Theory: The Key Concepts,Dino Franco Felluga,9780415695657,362,Philosophy-Topics
+Critical Theory Today,Lois Tyson,9780415506755,470,Philosophy-Topics
+Critical Theory,Stephen Eric Bronner,9780199730070,144,Philosophy-Topics
+Literary Criticism,Charles E. Bressler,9780205212149,336,Philosophy-Topics
+Literary Theory: A Very Short Introduction,Jonathan Culler,9780199691340,165,Philosophy-Topics
+Post-structuralism: a very short introduction,Catherine Belsey,9780192801807,,Philosophy-Topics
+Hermeneutics: a Very Short Introduction,Jens Zimmermann,9780199685356,144,Philosophy-Topics
+Disagreement,Richard Feldman,9780199226085,304,Philosophy-Topics
+The Routledge companion to aesthetics,Dominic Lopes,9780415782876,,Philosophy-Topics
+Moral Psychology,Valerie Tiberius,9780415529693,241,Philosophy-Topics
+Free Will,Michael McKenna,9780415996877,320,Philosophy-Topics
+Philosophy of Religion,Keith E. Yandell,9780415963701,342,Philosophy-Topics
+Philosophy of Mind,John Heil,9780415891752,281,Philosophy-Topics
+Philosophy of economics: a contemporary introduction,Julian Reiss,9780415881173,,Philosophy-Topics
+The Routledge Companion To Social And Political Philosophy,Professor of Political Science and Philosophy Gerald F Gaus,9781138064874,,Philosophy-Topics
+An introduction to the philosophy of art,Richard Thomas Eldridge,9781107614444,,Philosophy-Topics
+An Introduction to Ontology,Nikk Effingham,9780745652559,224,Philosophy-Topics
+Metametaphysics,David John Chalmers,9780199546008,529,Philosophy-Topics
+Ontology And Metaontology: A Contemporary Guide,Francesco Berto,9781441182890,,Philosophy-Topics
+The Oxford Handbook of Ethical Theory,David Copp,9780195325911,680,Philosophy-Topics
+The Oxford handbook of free will,"Kane, Robert",9780195399691,,Philosophy-Topics
+The Oxford Handbook of Metaphysics,Michael J. Loux,9780199284221,724,Philosophy-Topics
+The Oxford Handbook Of Philosophy Of Time,Craig Callender,9780199679553,,Philosophy-Topics
+Causation: A Very Short Introduction,Stephen Mumford,9780199684434,128,Philosophy-Topics
+Causality,Phyllis McKay Illari,9780199662678,328,Philosophy-Topics
+The Oxford handbook of causation,Helen Beebee,9780199642588,,Philosophy-Topics
+The Oxford Handbook of Philosophy of Mind,Brian McLaughlin,9780199596317,832,Philosophy-Topics
+The Oxford Handbook Of The Philosophy Of Language,Ernest Lepore,9780199552238,,Philosophy-Topics
+Contemporary Debates In Metaphysics,Theodore Sider,9781405112291,,Philosophy-Topics
+Metaphysics,Peter van Inwagen,9780813349343,352,Philosophy-Topics
+The Routledge Companion to Metaphysics,Robin Le Poidevin,9780415493963,609,Philosophy-Topics
+The Routledge Companion to Epistemology,Sven Bernecker,9780415962193,911,Philosophy-Topics
+The Routledge companion to philosophy of science,Martin Curd,9780415518758,,Philosophy-Topics
+The Routledge Handbook Of Philosophy Of Well-Being,Guy Fletcher,9780415714532,,Philosophy-Topics
+The Routledge Handbook Of Metaethics,Tristram McPherson,9781138812208,,Philosophy-Topics
+The Routledge Handbook of Philosophy of Empathy,Heidi Maibom,9781138855441,396,Philosophy-Topics
+The Routledge handbook of philosophy of information,Luciano Floridi,9781138796935,,Philosophy-Topics
+The Routledge Handbook of Philosophy of Memory,Sven Bernecker,9781138909366,500,Philosophy-Topics
+The Routledge Handbook of Epistemic Injustice,Ian James Kidd,9781138828254,416,Philosophy-Topics
+Contemporary metaethics: an introduction,Alexander Miller,9780745646596,,Philosophy-Topics
+The Routledge Handbook of Philosophy of Animal Minds,Kristin Andrews,9781138822887,480,Philosophy-Topics
+Metaethics: a contemporary introduction,Mark Steven Van Roojen,9780415894425,,Philosophy-Topics
+"Introducing philosophy: God, mind, world, and logic",Neil Tennant,9780415537148,,Philosophy-Topics
+Replacing Truth,Kevin Scharp,9780199653850,,Philosophy-Topics
+Free Will,Michael McKenna,9780415996860,320,Philosophy-Topics
+Metaphysics: a contemporary introduction,Michael J Loux,9781138639331,,Philosophy-Topics
+Ethics: a contemporary introduction,Harry J. Gensler,9780415803885,,Philosophy-Topics
+Epistemology,Robert Audi,9780415879231,404,Philosophy-Topics
+Philosophy Of Science: The Central Issues,Martin Curd,9780393919035,,Philosophy-Topics
+Philosophy of science: a contemporary introduction,Alexander Rosenberg,9780415891776,,Philosophy-Topics
+Causality,Judea Pearl,9780521895606,464,Philosophy-Topics
